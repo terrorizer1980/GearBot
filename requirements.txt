@@ -9,3 +9,4 @@ pyseeyou==1.0.1
 prometheus_client==0.8.0
 aiomysql==0.0.20
 emoji==0.6.0
+urllib3>=1.26.17 # not directly required, pinned by Snyk to avoid a vulnerability
