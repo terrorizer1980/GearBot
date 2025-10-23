@@ -7,5 +7,5 @@ sentry-sdk==0.19.2
 pytz==2020.4
 pyseeyou==1.0.1
 prometheus_client==0.8.0
-aiomysql==0.0.20
+aiomysql==0.3.0
 emoji==0.6.0
